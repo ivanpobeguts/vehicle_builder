@@ -16,9 +16,6 @@ This command starts server on 0.0.0.0:8080
 API documentation should be available on http://0.0.0.0:8000/api/v1/docs .
 
 ## Tests
-Make sure that integration tests with database are also included.
-It means that the Postgre database should be running.
-To run only the database please execute:
 ```bash
 $ make run-db
 ```
