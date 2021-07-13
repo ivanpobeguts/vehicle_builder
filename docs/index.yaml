@@ -1,0 +1,9 @@
+tags:
+- index
+summary: Welcome page
+operationId: getIndex
+produces:
+- text/plain
+responses:
+  "200":
+    description: successful operation
